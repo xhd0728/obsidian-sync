@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a9d82c528c73f6c",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {}
+            }
           }
         ]
       }
@@ -140,8 +148,11 @@
   },
   "active": "5aad4a43b0f7855e",
   "lastOpenFiles": [
+    "README.md",
     "Weekly Report/2024.04.18.md",
     "Weekly Report/2024.04.25.md",
+    "Weekly Report/2024.02.22.md",
+    "Weekly Report/2024.01.11.md",
     "Weekly Report/2024.04.11.md",
     "Weekly Report/2024.04.04.md",
     "Weekly Report/2024.03.28.md",
@@ -149,7 +160,6 @@
     "Weekly Report/2024.03.07.md",
     "Weekly Report/2024.02.29.md",
     "Weekly Report/2024.01.18.md",
-    "Weekly Report/2024.01.11.md",
     "Weekly Report/2023.12.21.md",
     "Weekly Report/2023.12.14.md",
     "Weekly Report/2023.12.07.md",
@@ -161,9 +171,7 @@
     "Weekly Report/2023.10.19.md",
     "Weekly Report/2023.12.28.md",
     "Weekly Report/2024.01.04.md",
-    "Weekly Report/2024.02.22.md",
     "Weekly Report/2024.03.20.md",
-    "README.md",
     "desktop.ini",
     "未命名.canvas"
   ]
