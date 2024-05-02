@@ -4,27 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4c3d88099fdd0e4c",
+        "id": "0a1b85f6002060d3",
         "type": "tabs",
         "children": [
           {
-            "id": "5aad4a43b0f7855e",
+            "id": "a80649d5ba767be7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Report/2024.04.25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a9d82c528c73f6c",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
+              "type": "empty",
               "state": {}
             }
           }
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Report/2024.04.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Weekly Report/2024.04.25.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,11 +130,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5aad4a43b0f7855e",
+  "active": "a80649d5ba767be7",
   "lastOpenFiles": [
+    "Weekly Report/2023.12.07.md",
+    "Weekly Report/2023.11.22.md",
+    "Weekly Report/2024.04.25.md",
     "README.md",
     "Weekly Report/2024.04.18.md",
-    "Weekly Report/2024.04.25.md",
     "Weekly Report/2024.02.22.md",
     "Weekly Report/2024.01.11.md",
     "Weekly Report/2024.04.11.md",
@@ -162,8 +148,6 @@
     "Weekly Report/2024.01.18.md",
     "Weekly Report/2023.12.21.md",
     "Weekly Report/2023.12.14.md",
-    "Weekly Report/2023.12.07.md",
-    "Weekly Report/2023.11.22.md",
     "Weekly Report/2023.11.16.md",
     "Weekly Report/2023.11.09.md",
     "Weekly Report/2023.11.02.md",
