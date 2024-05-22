@@ -1,6 +1,5 @@
 [
   "remotely-save",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-git",
-  "obsidian-livesync"
+  "obsidian-git"
 ]
