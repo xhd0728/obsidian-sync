@@ -128,9 +128,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
-      "obsidian-livesync:Show Customization sync": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -140,11 +137,11 @@
   },
   "active": "a80649d5ba767be7",
   "lastOpenFiles": [
+    "Weekly Report/2024.04.18.md",
+    "Weekly Report/2024.05.22.md",
+    "Weekly Report/2024.05.16.md",
     "Weekly Report/2024.04.25.md",
     "Weekly Report/2024.05.09.md",
-    "Weekly Report/2024.05.16.md",
-    "Weekly Report/2024.05.22.md",
-    "Weekly Report/2024.04.18.md",
     "Weekly Report/2024.02.22.md",
     "Weekly Report/pptAAC.tmp",
     "Weekly Report/~$2024.05.09.pptx",
